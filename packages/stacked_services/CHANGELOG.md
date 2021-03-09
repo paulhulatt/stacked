@@ -1,3 +1,7 @@
+## 0.8.0-nullsafety
+
+- Uses null safe version of get
+
 ## 0.7.2
 
 - Fixes a regression bug for allowing null title and content for a dialog
