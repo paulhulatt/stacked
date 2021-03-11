@@ -1,3 +1,4 @@
+// @dart=2.9
 /// Maybe this should be generated for the user as well?
 ///
 /// import 'package:customer_app/services/stackdriver/stackdriver_service.dart';

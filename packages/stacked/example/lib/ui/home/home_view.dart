@@ -1,3 +1,4 @@
+// @dart=2.9
 import 'package:flutter/material.dart';
 import 'package:new_architecture/ui/home/home_viewmodel.dart';
 import 'package:new_architecture/ui/startup/startup_view.dart';

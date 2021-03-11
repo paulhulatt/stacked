@@ -1,3 +1,4 @@
+// @dart=2.9
 import 'package:flutter/material.dart';
 import 'package:new_architecture/ui/bottom_nav/profile/profile_view.dart';
 import 'package:stacked/stacked.dart';

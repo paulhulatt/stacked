@@ -1,3 +1,4 @@
+// @dart=2.9
 import 'package:new_architecture/app/app.locator.dart';
 import 'package:new_architecture/app/app.logger.dart';
 import 'package:new_architecture/app/app.router.dart';

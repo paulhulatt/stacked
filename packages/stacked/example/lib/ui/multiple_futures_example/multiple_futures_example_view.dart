@@ -1,3 +1,4 @@
+// @dart=2.9
 import 'package:flutter/material.dart';
 import 'package:new_architecture/ui/multiple_futures_example/multiple_futures_example_viewmodel.dart';
 import 'package:stacked/stacked.dart';
